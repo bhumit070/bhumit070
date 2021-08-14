@@ -7,12 +7,15 @@
 </div>
 
 ### My GitHub Stats
+
 <div>
 <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumit070&" alt="bhumit070" />
 <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=bhumit070&show_icons=true&locale=en" alt="bhumit070" />
+<img align="center" style="margin:30px" src="https://activity-graph.herokuapp.com/graph?username=bhumit070&theme=xcode" alt="bhumit070" />
 </div>
 
 ### Languages and Tools:
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
