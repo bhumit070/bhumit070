@@ -11,7 +11,8 @@
 <div>
 <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumit070&" alt="bhumit070" />
 <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=bhumit070&show_icons=true&locale=en" alt="bhumit070" />
-<img align="center" style="margin:30px" src="https://activity-graph.herokuapp.com/graph?username=bhumit070&theme=xcode" alt="bhumit070" />
+<br /><br />
+<img src="https://activity-graph.herokuapp.com/graph?username=bhumit070&theme=xcode" alt="bhumit070" />
 </div>
 
 ### Languages and Tools:
