@@ -6,16 +6,7 @@
 <span align="left"> <a href="https://twitter.com/bhumit070" target="blank"><img src="https://img.shields.io/twitter/follow/bhumit070?logo=twitter&style=for-the-badge" alt="Bhoomit" /></a> </span>
 </div>
 
-### My GitHub Stats
-
-<div>
-<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumit070&" alt="bhumit070" />
-<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=bhumit070&show_icons=true&locale=en" alt="bhumit070" />
-<br /><br />
-<img src="https://activity-graph.herokuapp.com/graph?username=bhumit070&theme=xcode" alt="bhumit070" />
-</div>
-
-### Languages and Tools:
+# Programming Languages And Databases:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -41,3 +32,23 @@
 <a href="https://getbootstrap.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a>
+
+<br />
+
+# My GitHub Stats
+
+<div>
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumit070&" alt="bhumit070" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=bhumit070&show_icons=true&locale=en" alt="bhumit070" />
+<br /><br />
+<img src="https://activity-graph.herokuapp.com/graph?username=bhumit070&theme=xcode" alt="bhumit070" />
+</div>
+
+<br />
+
+<br />
+
+# 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhumit070&theme=vue"/>
+</p>
