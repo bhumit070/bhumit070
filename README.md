@@ -15,9 +15,9 @@
 
 # My Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Exploring 40 Free APIs for Your Next Programming Project.](https://dev.to/bhumit070/exploring-40-free-apis-for-your-next-programming-project-110m)
 - [Streamlining JavaScript Development with PackageFlex: One-Click Copy for npm Install Commands](https://dev.to/bhumit070/streamlining-javascript-development-with-packageflex-one-click-copy-for-npm-install-commands-40mg)
 - [Destiny: A Tool to Manage Cluttered Folders](https://dev.to/bhumit070/destiny-a-tool-to-manage-cluttered-folders-14b7)
-- [Syncing Across Tabs: The JavaScript Magic You Didn&#39;t Know Existed!](https://dev.to/bhumit070/syncing-across-tabs-the-javascript-magic-you-didnt-know-existed-a84)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats
