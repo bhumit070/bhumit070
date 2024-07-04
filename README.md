@@ -15,9 +15,9 @@
 
 # My Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Nodejs and typescript boilerplate](https://dev.to/bhumit070/nodejs-and-typescript-boilerplate-48i8)
 - [Exploring 40 Free APIs for Your Next Programming Project.](https://dev.to/bhumit070/exploring-40-free-apis-for-your-next-programming-project-110m)
 - [Streamlining JavaScript Development with PackageFlex: One-Click Copy for npm Install Commands](https://dev.to/bhumit070/streamlining-javascript-development-with-packageflex-one-click-copy-for-npm-install-commands-40mg)
-- [Destiny: A Tool to Manage Cluttered Folders](https://dev.to/bhumit070/destiny-a-tool-to-manage-cluttered-folders-14b7)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats
