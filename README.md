@@ -15,9 +15,9 @@
 
 # My Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Your comprehensive guide to shell scripting](https://dev.to/bhumit070/your-comprehensive-guide-to-shell-scripting-874)
 - [Nodejs and typescript boilerplate](https://dev.to/bhumit070/nodejs-and-typescript-boilerplate-48i8)
 - [Exploring 40 Free APIs for Your Next Programming Project.](https://dev.to/bhumit070/exploring-40-free-apis-for-your-next-programming-project-110m)
-- [Streamlining JavaScript Development with PackageFlex: One-Click Copy for npm Install Commands](https://dev.to/bhumit070/streamlining-javascript-development-with-packageflex-one-click-copy-for-npm-install-commands-40mg)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats
