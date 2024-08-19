@@ -15,9 +15,9 @@
 
 # My Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Hidden Gems of HTML: 11 Lesser-Known Tags You Should Know](https://dev.to/bhumit070/exploring-the-hidden-gems-of-html-11-lesser-known-tags-you-should-know-54cl)
 - [Your comprehensive guide to shell scripting](https://dev.to/bhumit070/your-comprehensive-guide-to-shell-scripting-874)
 - [Nodejs and typescript boilerplate](https://dev.to/bhumit070/nodejs-and-typescript-boilerplate-48i8)
-- [Exploring 40 Free APIs for Your Next Programming Project.](https://dev.to/bhumit070/exploring-40-free-apis-for-your-next-programming-project-110m)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats
