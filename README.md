@@ -24,7 +24,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=bhumit070&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bhumit070&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-070-bhumit070.vercel.app/api/top-langs/?username=bhumit070&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!--![](https://github-readme-stats-070-bhumit070.vercel.app/api/top-langs/?username=bhumit070&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
 ## 🏆 GitHub Trophies
 
