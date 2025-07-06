@@ -15,9 +15,9 @@
 
 # My Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Tools I Use to Increase My Productivity.](https://dev.to/bhumit070/tools-i-use-to-increase-my-productivity-2bn4)
 - [Exploring the Hidden Gems of HTML: 11 Lesser-Known Tags You Should Know](https://dev.to/bhumit070/exploring-the-hidden-gems-of-html-11-lesser-known-tags-you-should-know-54cl)
 - [Your comprehensive guide to shell scripting](https://dev.to/bhumit070/your-comprehensive-guide-to-shell-scripting-874)
-- [Nodejs and typescript boilerplate](https://dev.to/bhumit070/nodejs-and-typescript-boilerplate-48i8)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats
